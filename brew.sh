@@ -59,8 +59,4 @@ brew install heroku
 # Install editors
 brew install micro
 
-# Install some fonts
-brew tap caskroom/fonts
-brew cask install font-inconsolata
-
 brew cleanup
